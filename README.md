@@ -1,6 +1,7 @@
 # Dashboard-in-Excel
 
-Management Dashboards created using excel
+Management Dashboards created using excel: 
+https://youtu.be/k40Hk0JPgY0
 
 Dashboards that were created as part of the Capstone project in the Analytics for Business Decision Making Graduate Certificate at Mohawk College.
 The dashboards were created with the purpose of helping Panion managers to measure and evaluate the performance of their workers.
